@@ -1,0 +1,23 @@
+2021-02-02 13:52:43,965 WARN  [SoapUI] Missing folder [C:\Users\LakshmiSureshThakkel\Desktop\Manipal\SDETPB8-RestProject\Restproject\ext] for external libraries
+2021-02-02 13:52:44,244 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\LakshmiSureshThakkel\soapui-settings.xml]
+2021-02-02 13:52:46,163 INFO  [WsdlProject] Loaded project from [file:/C:/Users/LakshmiSureshThakkel/Desktop/Manipal/SDETPB8-RestProject/Restproject/REST-Maven-Project-soapui-project.xml]
+2021-02-02 13:52:46,896 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [REST Maven Project]
+2021-02-02 13:52:46,897 INFO  [SoapUITestCaseRunner] Running Project [REST Maven Project], runType = SEQUENTIAL
+2021-02-02 13:52:46,921 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TC_001_Functional Validation]
+2021-02-02 13:52:46,970 INFO  [SoapUITestCaseRunner] running step [GetAccessToken]
+2021-02-02 13:52:49,679 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion] has status VALID
+2021-02-02 13:52:49,680 INFO  [SoapUITestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2021-02-02 13:52:49,681 INFO  [SoapUITestCaseRunner] running step [Admin Login]
+2021-02-02 13:52:50,044 INFO  [SoapUITestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2021-02-02 13:52:50,044 INFO  [SoapUITestCaseRunner] running step [GetAdminUserDetails]
+2021-02-02 13:52:50,398 INFO  [SoapUITestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2021-02-02 13:52:50,399 INFO  [SoapUITestCaseRunner] running step [Add new Category]
+2021-02-02 13:52:50,799 INFO  [log] 2184
+2021-02-02 13:52:50,818 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion] has status VALID
+2021-02-02 13:52:50,818 INFO  [SoapUITestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2021-02-02 13:52:50,819 INFO  [SoapUITestCaseRunner] running step [GetCatItemsById]
+2021-02-02 13:52:51,174 INFO  [SoapUITestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2021-02-02 13:52:51,174 INFO  [SoapUITestCaseRunner] running step [Admin Logout]
+2021-02-02 13:52:51,518 INFO  [SoapUITestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2021-02-02 13:52:51,520 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TC_001_Functional Validation], time taken: 3562ms, status: FINISHED
+2021-02-02 13:52:51,524 INFO  [SoapUITestCaseRunner] Project [REST Maven Project] finished with status [FINISHED] in 4620ms
